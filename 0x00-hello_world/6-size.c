@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that prints the size of varous computer types
+ * Entry point
  * Return 0 (Success)
  */
 int main(void)

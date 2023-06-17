@@ -4,6 +4,7 @@
 /**
  * main - Entry point
  * Description: Get the last digits of a number
+ * Return: always 0
  */
 int main(void)
 {

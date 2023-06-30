@@ -15,6 +15,5 @@ if (n[1] >= 'a' && n[i] <= 'z')
 n[i] = n[i] - 32;
 i++;
 }
-return (0);
+return (n);
 }
-

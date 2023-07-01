@@ -6,15 +6,15 @@ int n;
 int a[5];
 int *p;
 
-a[2] = 1024
+a[2] = 1024;
 p = &n;
 /*
- * write yur line of code here
+ * write yur line of code here...
  * Remember:
- * You are not allowed to use a
- * You are not allowed to modify p
- * only one statement
- * You are not allowed to code anything else than this line of code
+ * - You are not allowed to use a
+ * - You are not allowed to modify p
+ * - only one statement
+ * - You are not allowed to code anything else than this line of code
  */
 *(p + 5) = 98;
 /*  so that this prints 98\n */
